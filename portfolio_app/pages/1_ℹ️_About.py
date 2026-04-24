@@ -28,7 +28,7 @@ st.title("About Me")
 col1, col2 = st.columns([1.5, 3]) 
 
 with col1:
-    st.image("images/My profile1.jpg", caption="Profile Picture", use_container_width=True)
+    st.image("portfolio_app/images/My profile1.jpg", caption="Profile Picture", use_container_width=True)
 
 with col2:
     # Large Name Header
@@ -94,16 +94,16 @@ h_col1, h_col2 = st.columns(2)
 
 with h_col1:
     st.subheader("🎤 Singing")
-    st.image("images/Singing.jpg", caption="Me performing")
+    st.image("portfolio_app/images/Singing.jpg", caption="Me performing")
     
     st.subheader("🎮 Playing ML")
-    st.image("images/Ml.jpg", caption="Rank: Mythical Glory")
+    st.image("portfolio_app/images/Ml.jpg", caption="Rank: Mythical Glory")
     
     st.subheader("🧶 Crocheting")
-    st.image("images/crocheting.jpg", caption="Handmade with love")
+    st.image("portfolio_app/images/crocheting.jpg", caption="Handmade with love")
 with h_col2:
     st.subheader("💃 Dancing")
-    st.video("videos/dancing.mp4") 
-    st.video("videos/Dancing2.mp4") 
+    st.video("portfolio_app/videos/dancing.mp4") 
+    st.video("portfolio_app/videos/Dancing2.mp4") 
     
     
