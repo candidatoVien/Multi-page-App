@@ -6,13 +6,13 @@ st.title("My Projects")
 
 # To add more projects, just add another dictionary to this list:
 my_projects = [
-    {"title": "Beach Reservation System", "desc": "A simple Beach Reservation system with input and Output using Python", "img": "images/Case Study.jpg"},
-    {"name": "Asia Novo Hotel Reservation System", "desc": "A database system using MS Access", "img": "images/Asia_Novo_Botique_Hotel_Reservation_DataBase_System.jpg"},
-    {"title": "Chravian Photobooth", "desc": "A Photobooth Website using Html, CSS, and JavaScript", "img": "images/Chravian_Photobooth.jpg"},
-    {"title": "CPU Instruction Cycle Simulator", "desc": "A simple simulator, presenting the cycle of CPU using Python.", "img": "images/CPU_Instruction_Simulator.jpg"},
-    {"title": "Personal Site", "desc": "A personal site using HTML, CSS, and JavaScript that have been uploaded on GitHub.", "img": "images/Personal_Site.jpg"},
-    {"title": "Hotel  Reservation", "desc": "A simple Hotel Reservation using Xampp", "img": "images/Hotel_Reservation_Using_Xampp.jpg"},
-    {"title": "Library Management System", "desc": "A simple Library Management System Handling Borrowing and returning Books using Python", "img": "images/Library_Management_System.jpg"},
+    {"title": "Beach Reservation System", "desc": "A simple Beach Reservation system with input and Output using Python", "img": "portfolio_app/images/Case Study.jpg"},
+    {"name": "Asia Novo Hotel Reservation System", "desc": "A database system using MS Access", "img": "portfolio_app/images/Asia_Novo_Botique_Hotel_Reservation_DataBase_System.jpg"},
+    {"title": "Chravian Photobooth", "desc": "A Photobooth Website using Html, CSS, and JavaScript", "img": "portfolio_app/images/Chravian_Photobooth.jpg"},
+    {"title": "CPU Instruction Cycle Simulator", "desc": "A simple simulator, presenting the cycle of CPU using Python.", "img": "portfolio_app/images/CPU_Instruction_Simulator.jpg"},
+    {"title": "Personal Site", "desc": "A personal site using HTML, CSS, and JavaScript that have been uploaded on GitHub.", "img": "portfolio_app/images/Personal_Site.jpg"},
+    {"title": "Hotel  Reservation", "desc": "A simple Hotel Reservation using Xampp", "img": "portfolio_app/images/Hotel_Reservation_Using_Xampp.jpg"},
+    {"title": "Library Management System", "desc": "A simple Library Management System Handling Borrowing and returning Books using Python", "img": "portfolio_app/images/Library_Management_System.jpg"},
 ]
 
 for p in my_projects:
