@@ -2,7 +2,7 @@
 
 # 🍷 My Professional Portfolio
 
-### ✨ *Vien Adah O. Candidato*
+### 🍷 *Vien Adah O. Candidato* 🍷
 
 <img src="https://img.shields.io/badge/BSCS-3rd%20Year-800000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
@@ -29,7 +29,7 @@
 
 ---
 
-# 🌌 About the Project
+# 🍷 About the Project
 
 **My Portfolio** is a multi-page interactive web application built using **Python** and **Streamlit**. It serves as a digital home for my academic milestones at **DEBESMSCAT**, my technical projects, and my creative outlets like dancing and crochet.
 
@@ -131,8 +131,8 @@ Phone: +63 9204576841
 This project is for educational and portfolio purposes.
 
 
-💫 Inspirational Quote
+💫 Inspirational Quote💫
 "The only way to do great work is to love what you do."
 — Steve Jobs
-⭐ Thank you for visiting my portfolio!
-⭐Created by Vien Adah O. Candidato | BSCS-3A | 2026
+🍷 Thank you for visiting my portfolio!
+🍷 Created by Vien Adah O. Candidato | BSCS-3A | 2026
