@@ -48,7 +48,7 @@ st.markdown(f"""
     """, unsafe_allow_html=True)
 
 # LOAD IMAGE LOGIC
-img_path = "images/My profile_4.jpg"
+img_path = "https://github.com/candidatoVien/Multi-page-App/blob/main/portfolio_app/images/My%20profile_4.jpg"
 
 if os.path.exists(img_path):
     img_base64 = get_base64_of_bin_file(img_path)
