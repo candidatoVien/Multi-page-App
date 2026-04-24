@@ -1,92 +1,138 @@
-# 🚀 Professional Portfolio Web App
-### Vien Adah O. Candidato | BSCS 3rd Year | DEBESMSCAT
+<div align="center">
 
-"Welcome! This is my personal portfolio—a space I built using Streamlit to share my journey as a Computer Science student at DEBESMSCAT. More than just a collection of code, this site is a reflection of my growth in Python and Web Development, my academic milestones, and the creative side of me that loves to sing, dance, and create. It’s a snapshot of where I am now and where I’m headed in the tech world."
+# 🍷 My Professional Portfolio
 
----
+### ✨ *Vien Adah O. Candidato*
 
-## 📋 Features
+<img src="https://img.shields.io/badge/BSCS-3rd%20Year-800000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built%20With-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/School-DEBESMSCAT-white?style=for-the-badge"/>
 
-### 🏠 Home Page
-- **Circular Profile Hero:** Uses custom CSS for a centered, professional circular image.
-- **Interactive Theme Engine:** Sidebar controls allowing users to adjust the page and sidebar background colors (Wine Red by default) in real-time.
-- **Growth Mindset Intro:** A personal introduction detailing my journey as a 20-year-old developer committed to continuous learning.
-- **30-Second Rating Prompt:** An interactive feature that prompts the user for a quick rating after 30 seconds of browsing.
+<br>
 
-### ℹ️ About Me
-- **High-Density Personal Info:** Uses custom `.personal-info` CSS for maximum readability of personal details.
-- **Academic Milestones:** Detailed history from Polot Elementary and Liceo De Baleno to my current BSCS degree.
-- **Family Profile:** Interactive expanders containing background on my siblings.
-- **Creative Interests:** Media-rich sections highlighting interests in **Dancing** (Video), **Singing**, and **Crocheting**.
+🍷 **A modern, Wine-Red themed interactive portfolio showcasing my journey in Computer Science, technical projects, and creative works.**
 
-### 👩‍💻 Skills & Certificates
-- **Technical Proficiency:** Visual progress bars for Python Development (85%), Networking (60%), and Web Development (90%).
-- **Interactive Toolbox:** Metric dashboard for professional tools including GitHub, VS Code, and Streamlit.
-- **Awards Gallery:** Visual showcase of academic excellence, including **Dean's List** recognition and various AI/Python certifications.
-
-### 📁 Projects Showcase
-- **System Portfolio:** A detailed gallery featuring:
-    - **Beach Reservation System:** Python-based automation for guest inputs and outputs.
-    - **Asia Novo Hotel System:** A professional database implementation using MS Access.
-    - **CPU Simulator:** A technical educational tool visualizing the instruction cycle.
-    - **Library Management System:** Handling book logistics via Python.
-
-### 📬 Contact & Inspiration
-- **Functional Contact Form:** Built-in validation for name, email, and messages.
-- **Daily Inspiration:** An interactive quotes page where users can view random quotes or submit their own.
+</div>
 
 ---
 
-## 🛠️ Technical Stack
+# 🌟 Live Demo
 
-- **Framework:** Streamlit (Python 3.x)
-- **Styling:** Custom CSS Injection (Glassmorphism, Flexbox, Base64 Encoding)
-- **Deployment:** Streamlit Community Cloud
-- **Version Control:** GitHub
+<div align="center">
 
-🛠️ Performance & Optimization
-Asset Encoding: Uses Base64 string conversion for the profile hero section to prevent flickering during page reloads.
+🔗 **View My Work Online**
 
-State Management: Implements st.session_state to ensure the user's custom theme (Wine Red) persists as they navigate between different sub-pages.
+[![Open Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-CLICK_HERE-800000?style=for-the-badge&logo=streamlit&logoColor=white)](https://candidatovienmultipagepersonalwebsite.streamlit.app/)
 
-Lazy Loading: Images are structured in a local /images directory to optimize load times on the Streamlit Cloud server.
+</div>
 
 ---
 
-## 🚀 Installation & Setup
+# 🌌 About the Project
 
-1. **Clone the Repository**
-   ```bash
-   git clone [https://github.com/yourusername/portfolio-app.git](https://github.com/yourusername/portfolio-app.git)
+**My Portfolio** is a multi-page interactive web application built using **Python** and **Streamlit**. It serves as a digital home for my academic milestones at **DEBESMSCAT**, my technical projects, and my creative outlets like dancing and crochet.
 
-2. Install Requirements
-    pip install streamlit
+I believe the tech industry is about more than just what you know—it's about how enthusiastically you can explore new tools. This site is a snapshot of my growth as a 20-year-old developer committed to continuous discovery.
 
-3. Run the Application
-    streamlit run Home.py
+---
 
-📁 Project Structure
+# ✨ Features
 
+## 🎨 Design Features
+
+| Feature               | Description                                      |
+| --------------------- | ------------------------------------------------ |
+| 🍷 Wine Red Theme     | Custom-coded aesthetic color palette |
+| 🖼️ Profile Hero       | Base64 encoded circular profile showcase |
+| 📱 Responsive Layout  | Fluid design for desktop and mobile |
+| 🎨 Theme Engine       | Real-time background color pickers |
+
+## ⚙️ Functional Features
+
+| Feature                | Description                                     |
+| ---------------------- | ----------------------------------------------- |
+| 📂 Project Gallery     | Interactive showcase of technical systems |
+| ⭐ Smart Feedback      | Automatic 30-second rating prompt |
+| 📊 Skill Metrics       | Visual progress bars for tech stack |
+| 🐾 Pet Showcase        | Dedicated section for my "Nakshies" |
+| 📬 Contact Portal      | Validated form with success notifications |
+
+---
+
+# 📄 Pages Overview
+
+| Page         | Description                               | Icon |
+| ------------ | ----------------------------------------- | ---- |
+| Home         | Welcome, profile, and theme settings      | 🏠   |
+| About        | Detailed background and education history | ℹ️   |
+| Skills       | Technical, Creative, and Tool metrics     | 🛠️   |
+| Projects     | Gallery of Python and Database systems    | 📁   |
+| Certificates | Academic awards and AI certifications     | 🏆   |
+| Pets         | A spotlight on Hikaro and my cats         | 🐾   |
+| Contact      | Social links and inquiry form             | 📞   |
+| Quotes       | Interactive daily inspiration             | 💬   |
+
+---
+
+# 📁 Featured Projects
+
+- **Beach Reservation System:** My first dive into Python automation for guest logistics.
+- **Asia Novo Hotel System:** A professional booking system built using MS Access.
+- **CPU Cycle Simulator:** A Python visualizer for abstract computer science logic.
+- **Library Management:** A system designed to handle book borrowing and returns.
+
+---
+
+# 🛠️ Technologies Used
+
+- **Python:** Primary programming logic
+- **Streamlit:** Modern web framework
+- **HTML/CSS:** Custom styling and Base64 image rendering
+- **Base64/OS:** Image processing and system management
+
+---
+
+# 📁 Project Structure
+
+```text
 portfolio_app/
-├── Home.py                # Main landing page & theme configuration
-├── requirements.txt       # App dependencies (streamlit)
-├── images/                # Folder containing profile, project, and pet assets
-└── pages/                 
-    ├── 1_ℹ️_About.py       # Personal & Academic details
-    ├── 2_🛠️_Skills.py      # Skill metrics & technical tools
-    ├── 3_📁_Projects.py    # System portfolio gallery
-    ├── 4_🏆_Certificates.py# Awards & academic recognition
-    ├── 5_🐾_Viens_Pets.py  # Pet showcase (Hikaro, Prism, Caelum, Cosmo)
-    ├── 6_📞_Contact.py     # Contact portal & social links
-    └── 7_💬_Quotes.py      # Interactive quotes generator
+├── Home.py                # Main landing page
+├── requirements.txt       # Dependencies
+├── images/                # Asset folder
+└── pages/
+    ├── 1_ℹ️_About.py       # Bio & Education
+    ├── 2_🛠️_Skills.py      # Progress metrics
+    ├── 3_📁_Projects.py    # Project showcase
+    ├── 4_🏆_Certificates.py# Awards gallery
+    ├── 5_🐾_Viens_Pets.py  # Pet profiles
+    ├── 6_📞_Contact.py     # Messaging portal
+    └── 7_💬_Quotes.py      # Inspiration page
+
+🚀 Installation
+1. Clone the Repository
+Bash
+git clone [https://github.com/yourusername/portfolio-app.git](https://github.com/yourusername/portfolio-app.git)
+Install Dependencies
+Bashpip
+install streamlit
+Run the Application
+Bash
+streamlit run Home.py
+
+📬 Contact & Socials
+Platform Details
+Email: candidatovien327@gmail.com
+Facebook: Vien Candidato
+Instagram: @vi_en_ny
+Phone: +63 9204576841
 
 📄 License
+This project is for educational and portfolio purposes.
 
-This project is part of an academic requirement for Activity 02: Streamlit Multipage App. Feel free to use the structure as a template for your own Streamlit applications.
 
-📞 Support & Contact
-Email: candidatovien327@gmail.com
-
-Facebook: Vien Candidato
-
-Instagram: @vi_en_ny
+💫 Inspirational Quote
+"The only way to do great work is to love what you do."
+— Steve Jobs
+⭐ Thank you for visiting my portfolio!
+⭐Created by Vien Adah O. Candidato | BSCS-3A | 2026
